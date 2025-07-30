@@ -1,0 +1,16 @@
+[theme]
+base="light"
+primaryColor="#1a73e8"
+backgroundColor="#ffffff"
+secondaryBackgroundColor="#f1f3f4"
+textColor="#202124"
+font="sans serif"
+export LC_ALL=en_US.UTF-8export LANG=en_US.UTF-8mkdir -p .streamlit && nano .streamlit/config.toml
+[theme]
+base="light"
+primaryColor="#1a73e8"
+backgroundColor="#ffffff"
+secondaryBackgroundColor="#f1f3f4"
+textColor="#202124"
+font="sans serif"
+
